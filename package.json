@@ -1,0 +1,27 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon D:\\learning nodemongo\\script.js",
+    "debug": "ndb script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "g": "^2.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.7.2",
+    "morgan": "^1.10.0",
+    "ndb": "^0.2.4",
+    "nodemailer": "^6.8.0",
+    "superagent": "^8.0.3",
+    "validator": "^13.7.0"
+  },
+  "description": ""
+}
